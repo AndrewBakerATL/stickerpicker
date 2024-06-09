@@ -1,7 +1,8 @@
 {
   "packs": [
     "KeanuReeves.json",
-    "emote.json"
+    "emote.json",
+    "emfox-emojigg-pack.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
