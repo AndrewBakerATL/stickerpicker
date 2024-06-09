@@ -73,7 +73,8 @@
     "EvilGenie.json",
     "GreatMindsColor.json",
     "ToyStory.json",
-    "MrOlaf.json"
+    "MrOlaf.json",
+    "TedTheBear.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
