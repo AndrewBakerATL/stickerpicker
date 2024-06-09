@@ -1,6 +1,7 @@
 {
   "packs": [
-    "KeanuReeves.json"
+    "KeanuReeves.json",
+    "emote.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
