@@ -1,0 +1,3 @@
+[console_scripts]
+sticker-import = sticker.stickerimport:cmd
+sticker-pack = sticker.pack:cmd
