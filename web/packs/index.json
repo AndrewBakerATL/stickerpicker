@@ -4,7 +4,8 @@
     "emote.json",
     "emfox-emojigg-pack.json",
     "VaultBoySet.json",
-    "BatmanComics.json"
+    "BatmanComics.json",
+    "PatrickBob.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
