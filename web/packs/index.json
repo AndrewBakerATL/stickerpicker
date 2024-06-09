@@ -79,7 +79,26 @@
     "konqikde.json",
     "JeanBaptistePlagouille.json",
     "JeanBaptistePlagouille2.json",
-    "BornVillain.json"
+    "BornVillain.json",
+    "DetectiveCaplini.json",
+    "AudreyGlamour.json",
+    "TopFly.json",
+    "WitchMorgana.json",
+    "StolenXmas.json",
+    "PumbaTimon.json",
+    "LegoUnikitty.json",
+    "PenguinKevin.json",
+    "LadyandTramp.json",
+    "BunnyRosy.json",
+    "Bunny_Boo.json",
+    "Lord_Voldemort.json",
+    "BeautyJudyTurtle.json",
+    "PokemonMasters.json",
+    "MrPenguin.json",
+    "Kolibri.json",
+    "Oliver_the_Frog.json",
+    "Don_Corleone.json",
+    "TheAddamsFamily.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
