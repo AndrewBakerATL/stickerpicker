@@ -68,7 +68,12 @@
     "Belfort.json",
     "MrZen.json",
     "Bonnie_and_Clyde.json",
-    "Pinup_Girl.json"
+    "Pinup_Girl.json",
+    "DrEvil.json",
+    "EvilGenie.json",
+    "GreatMindsColor.json",
+    "ToyStory.json",
+    "MrOlaf.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
