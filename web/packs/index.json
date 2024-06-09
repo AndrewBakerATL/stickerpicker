@@ -62,7 +62,13 @@
     "TheJoker.json",
     "Noirpack.json",
     "MrRibbit.json",
-    "Spider_meme.json"
+    "Spider_meme.json",
+    "TheWallStreet.json",
+    "KermitTheMuppetShow.json",
+    "Belfort.json",
+    "MrZen.json",
+    "Bonnie_and_Clyde.json",
+    "Pinup_Girl.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
