@@ -98,7 +98,26 @@
     "Kolibri.json",
     "Oliver_the_Frog.json",
     "Don_Corleone.json",
-    "TheAddamsFamily.json"
+    "TheAddamsFamily.json",
+    "SpaceJamLola.json",
+    "ToddBear.json",
+    "Totoro.json",
+    "KojimaKaminandesu.json",
+    "FrozenElsa.json",
+    "MacronEmmanuel.json",
+    "MariaDelCarmen.json",
+    "Whoniverse.json",
+    "Brick_Man.json",
+    "HowardLovecraft.json",
+    "cyanide_happiness_by_naeim.json",
+    "Chancla.json",
+    "PumpkinHead.json",
+    "SuchALady.json",
+    "Ultra_Violence.json",
+    "StrangerThings.json",
+    "ComradeBearski.json",
+    "BuddyBear.json",
+    "JackPumpkinHead.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
