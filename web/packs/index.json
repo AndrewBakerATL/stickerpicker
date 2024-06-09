@@ -75,7 +75,11 @@
     "ToyStory.json",
     "MrOlaf.json",
     "TedTheBear.json",
-    "Tom_jerry_LizF.json"
+    "Tom_jerry_LizF.json",
+    "konqikde.json",
+    "JeanBaptistePlagouille.json",
+    "JeanBaptistePlagouille2.json",
+    "BornVillain.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
